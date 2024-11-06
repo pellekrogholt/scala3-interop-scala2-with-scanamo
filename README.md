@@ -32,5 +32,4 @@ or with CrossVersion.for2_13Use3 raises:
 [error]     deriveDynamoFormat[FoobarSemiAutoDerivation]
 ```
 
-
-Semi auto derivation turned out to work well `.cross(CrossVersion.for2_13Use3)` on all the packages pinned out in use.
+Semi auto derivation turned out to work well using `.cross(CrossVersion.for2_13Use3)` on all the packages pinned out in use.
